@@ -67,7 +67,9 @@ The full schematic is built in **EasyEDA** and includes:
 
 > ![image](https://github.com/user-attachments/assets/197faf21-f8ff-49a8-8e10-535b17d48585)
 
+🖼️ Preview also available in EasyEDA:
 
+ https://oshwlab.com/sufyannadeem240/microprocessor-8085
 ---
 
 ### 🛠️ To-Do (Future Improvements)
